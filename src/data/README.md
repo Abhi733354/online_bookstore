@@ -1,4 +1,5 @@
-# online_bookstore
+## What is in the Repo
+
 This Project is a Simple ReactJS Application which demonstrates the following
 
 1. Creating Functional Components in React
